@@ -5,12 +5,6 @@ Functional phonebook that uses file I/O and FLTK to store names and phone number
   <img style="padding:0 15px" src="PhoneBookDemo.png" height="400" align="right" hspace="30" vspace="30">
 </p>
 
-<h1 align="center"Flood-It</h1>
-
-<p align="center">
-  </a>
-</p>
-
 ### Features
 <ul>
   <li>Fully functional phonebook program to add, manage, and delete contacts</li>
@@ -18,7 +12,6 @@ Functional phonebook that uses file I/O and FLTK to store names and phone number
   <li>Minimalist features</li>
   <li>Stores phonebook information with file I/O</li>
 </ul>
-
 
 ### Usage
 
@@ -34,8 +27,6 @@ FLTK can be easily installed on Centos and Ubuntu
 ```
 sudo apt-get install python-fltk
 ```
-Basic bash script written to create new scripts on a template
-
 ## Author
 
 * **Rebecca Louie** - - (https://github.com/rebecca-louie)
