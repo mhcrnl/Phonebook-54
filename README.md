@@ -11,7 +11,6 @@ Functional phonebook that uses file I/O and FLTK to store names and phone number
   </a>
 </p>
 
-A phonebook program written in Python 2.7 with FLTK.
 ### Features
 <ul>
   <li>Fully functional phonebook program to add, manage, and delete contacts</li>
