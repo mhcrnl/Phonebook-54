@@ -2,7 +2,7 @@
 Functional phonebook that uses file I/O and FLTK to store names and phone numbers
 
 <p align="center">
-  <img style="padding:0 15px; float: left;" src="PhoneBookDemo.png" height="400">
+  <img style="padding:0 15px" src="PhoneBookDemo.png" height="400" align="right" hspace="30" vspace="30">
 </p>
 
 <h1 align="center"Flood-It</h1>
